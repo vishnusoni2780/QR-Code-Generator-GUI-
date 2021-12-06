@@ -1,1 +1,1 @@
-# QR-Code-Generator-GUI-
+# QR Code Generator - GUI
